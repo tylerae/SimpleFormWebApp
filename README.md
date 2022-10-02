@@ -1,18 +1,3 @@
-## How to run:
-
-- Note: JS and css files found in SRC folder. HTML template and images in PUBLIC folder. 
-
-- Install the project using terminal:
-
-```
-npm install
-```
-
-- Start the project in terminal:
-
-```
-npm start
-```
 # Overview
 
 ### This repository is my first dive into using React js. I have had previous experince with HTML and CSS but in order to prepare myself for builiding a personal website, I needed to gain skills in JS and React. I created a simple form using react that allows the user to enter their name and email. Certain methods are in place to update the objects and check for valid entries. 
@@ -37,3 +22,19 @@ npm start
 * Finish front end main page that the submit button will lead to.
 * Connect to a simple database to hold the usser submission.
 * Dive more into HTML and CSS design.
+
+## How to run:
+
+- Note: JS and css files found in SRC folder. HTML template and images in PUBLIC folder. 
+
+- Install the project using terminal:
+
+```
+npm install
+```
+
+- Start the project in terminal:
+
+```
+npm start
+```
