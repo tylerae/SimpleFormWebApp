@@ -1,13 +1,14 @@
 ## How to run:
 
-- Navigate to project in the terminal
-- Install the project:
+- Note: JS and css files found in SRC folder. HTML template and images in PUBLIC folder. 
+
+- Install the project using terminal:
 
 ```
 npm install
 ```
 
-- Start the project 
+- Start the project in terminal:
 
 ```
 npm start
